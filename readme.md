@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
-    
+    <img src="https://img.icons8.com/plasticine/58/000000/react.png"/>
 </p>
 
 <p align="center">
